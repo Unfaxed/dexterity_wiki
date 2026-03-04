@@ -6,5 +6,6 @@ me.c7dev.dexterity.displays
 me.c7dev.dexterity.displays.animation
 me.c7dev.dexterity.displays.schematics
 me.c7dev.dexterity.displays.schematics.token
+me.c7dev.dexterity.interaction
 me.c7dev.dexterity.transaction
 me.c7dev.dexterity.util
